@@ -2,7 +2,7 @@
 <h2 align="center">A Moroccan student in computer science at {Cadi Ayyad University}.</h3>
 - 🌱 I'm currently in my second year at Higher School of technology , studying computer science.<br>
 - 👨‍💻 All of my projects are available at [https://github.com/omarelhassani12/]<br>
-- 📫 You can contact me at **arthurdossantospro3@gmail.com**
+- 📫 You can contact me at <a href="mailto:elhassani.omar12@gmail.com"><h3>elhassani.omar12@gmail.com</h3></a>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/omar-el-hassani-0182a923b/" target="blank">
