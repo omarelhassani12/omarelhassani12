@@ -2,11 +2,12 @@
 <h2 align="center">A Moroccan student in computer science at {Cadi Ayyad University}.</h3>
 - 🌱 I'm currently in my second year at Higher School of technology , studying computer science.<br>
 - 👨‍💻 All of my projects are available at [https://github.com/omarelhassani12/]<br>
-<!-- - 📫 You can contact me at **arthurdossantospro3@gmail.com**
+- 📫 You can contact me at **arthurdossantospro3@gmail.com**
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/arthur-dos-santos-epitech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arthur-dos-santos-epitech" height="30" width="40" /></a>
-<h3 align="center">Programming languages:</h3>
+<a href="https://www.linkedin.com/in/omar-el-hassani-0182a923b/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-el-hassani-0182a923b/" height="30" width="40" /></a>
+<!-- <h3 align="center">Programming languages:</h3>
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
