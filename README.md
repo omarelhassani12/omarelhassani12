@@ -50,12 +50,14 @@
 
   <div style="display: flex; justify-content: space-around; margin-top: 30px;">
     <div style="display: flex; flex-direction: column; align-items: center;">
+     <p style="color: #d4d4dc; font-size: 18px; margin-top: 20px;">Stats</p>
       <img height="160" src="https://github-readme-stats.vercel.app/api?username=omarelhassani12&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
-      <p style="color: #d4d4dc; font-size: 18px; margin-top: 20px;">Stats</p>
+      
     </div>
     <div style="display: flex; flex-direction: column; align-items: center;">
+       <p style="color: #d4d4dc; font-size: 18px; margin-top: 20px;">Top Languages</p>
       <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelhassani12&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
-      <p style="color: #d4d4dc; font-size: 18px; margin-top: 20px;">Top Languages</p>
+    
     </div>
   </div>
 </div>
@@ -65,6 +67,8 @@
 </p>
 
 <p align="center">
+<p style="color: #d4d4dc; font-size: 18px; margin-top: 20px;">Stats</p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=omarelhassani12&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
+  <p style="color: #d4d4dc; font-size: 18px; margin-top: 20px;">Top Languages</p>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelhassani12&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 </p>  -->
