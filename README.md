@@ -41,16 +41,21 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> -->
 
 <br />
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
-  <div style="margin-bottom: 20px;">
+
+ 
+ <div style="background-color: #1a1b27; padding: 20px; border-radius: 10px;">
+  <div style="display: flex; justify-content: center;">
     <img src="https://github-profile-trophy.vercel.app/?username=omarelhassani12&theme=red&column=6&margin-w=10&no-frame=true" />
   </div>
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <div style="margin-right: 20px;">
+
+  <div style="display: flex; justify-content: space-around; margin-top: 30px;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
       <img height="160" src="https://github-readme-stats.vercel.app/api?username=omarelhassani12&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
+      <p style="color: #d4d4dc; font-size: 18px; margin-top: 20px;">Stats</p>
     </div>
-    <div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
       <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelhassani12&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+      <p style="color: #d4d4dc; font-size: 18px; margin-top: 20px;">Top Languages</p>
     </div>
   </div>
 </div>
