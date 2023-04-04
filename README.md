@@ -43,7 +43,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarelhassani12&theme=blue&column=7&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=omarelhassani12&theme=red&column=4&margin-w=10&no-frame=true" />
 </p>
  <!--
 <p align="center">
