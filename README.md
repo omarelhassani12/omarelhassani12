@@ -45,8 +45,8 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=omarelhassani12&theme=red&column=6&margin-w=10&no-frame=true" />
 </p>
- <!--
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=arthurepitech&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurepitech&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
-</p> -->
+</p> 
