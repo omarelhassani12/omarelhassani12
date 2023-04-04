@@ -41,12 +41,25 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> -->
 
 <br />
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <div style="margin-bottom: 20px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=omarelhassani12&theme=red&column=6&margin-w=10&no-frame=true" />
+  </div>
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <div style="margin-right: 20px;">
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=omarelhassani12&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
+    </div>
+    <div>
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelhassani12&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
+    </div>
+  </div>
+</div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=omarelhassani12&theme=red&column=6&margin-w=10&no-frame=true" />
 </p>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=omarelhassani12&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelhassani12&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
-</p> 
+</p>  -->
