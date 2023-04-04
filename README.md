@@ -1,4 +1,3 @@
-@@ -1,42 +1,38 @@
 <h1 align="center">Hi 👋, I'm Omar EL HASSANI</h1>
 <h2 align="center">A Moroccan student in computer science at {Cadi Ayyad University}.</h3>
 - 🌱 I'm currently in my second year at Higher School of technology , studying computer science.
