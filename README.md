@@ -37,15 +37,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
+<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> -->
 
 <br />
- <!--
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arthurepitech&theme=dracula&column=7&margin-w=10&no-frame=true" />
 </p>
-
+ <!--
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=arthurepitech&theme=dracula&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurepitech&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
