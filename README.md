@@ -26,6 +26,7 @@
 </p>
   
 <h3 align="center">Database:</h3>
+
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>     
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
@@ -56,3 +57,24 @@
 </p> 
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarelhassani12&theme=slateorange&show_icons=true)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarelhassani12&theme=slateorange&show_icons=true)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+    "
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
