@@ -58,8 +58,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarelhassani12&theme=slateorange&show_icons=true)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarelhassani12&theme=slateorange&show_icons=true)
-
 <picture>
 
   <img
