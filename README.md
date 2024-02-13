@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar EL HASSANI</h1>
 <h2 align="center">A Moroccan student in computer science at {Cadi Ayyad University}.</h2>
 - 🌱 I'm currently in my second year at Higher School of technology , studying computer science.<br>
-- 👨‍💻 All of my projects are available at [<a href="https://github.com/omarelhassani12/">omarelhassani12</a>] and [<a href="http://elhassaniomar.c1.biz/">elhassaniomar</a>]<br> 
+- 👨‍💻 All of my projects are available at [<a href="https://github.com/omarelhassani12/">omarelhassani12</a>] and [<a href="https://omarelhassani.netlify.app">elhassaniomar</a>]<br> 
 - 📫 You can contact me at [<a href="mailto:elhassani.omar12@gmail.com">email</a>
 ]
 <h3 align="center">Connect with me:</h3>
