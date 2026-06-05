@@ -1,68 +1,67 @@
-<h1 align="center">Hi 👋, I'm Omar EL HASSANI</h1>
-<h2 align="center">A Moroccan student in computer science at {Cadi Ayyad University}.</h2>
-<!-- - 🌱 I'm currently in my second year at Higher School of technology , studying computer science.<br> -->
-- 👨‍💻 All of my projects are available at [<a href="https://github.com/omarelhassani12?tab=repositories">this GitHub account</a>] and [<a href="https://omarelhassani.netlify.app">elhassaniomar</a>].<br> 
-- 📫 You can contact me at [<a href="mailto:elhassani.omar12@gmail.com">email</a>
-]
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/omar-el-hassani-0182a923b/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omarelhassani12/" height="30" width="40" /></a>
- <h3 align="center">Programming languages:</h3>
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c plus plus" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
- </p>
-  <h3 align="center">Frameworks:</h3>
- <p align="center">  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-</p>
-  
-<h3 align="center">Database:</h3>
+<div align="center">
 
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>     
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+# Hi 👋, I'm Omar EL HASSANI
 
+### Technicien Supérieur en Génie Informatique | Développeur Flutter & Web Full-Stack
 
-<h3 align="center">Sowftware & Tools:</h3>
-<p align="center"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android-studio" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg" alt="fedora" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> -->
+📍 Meknès, Maroc &nbsp;|&nbsp; 📫 [elhassani.omar12@gmail.com](mailto:elhassani.omar12@gmail.com) &nbsp;|&nbsp; 🌐 [omarelhassani.netlify.app](https://omarelhassani.netlify.app)
 
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-el-hassani-0182a923b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omarelhassani12?tab=repositories)
 
+</div>
 
- 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=omarelhassani12&theme=prussian&column=6&margin-w=10&no-frame=true" />
-</p>
+---
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=omarelhassani12&theme=transparent&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelhassani12&layout=compact&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" />
-</p> 
+## 👨‍💻 About Me
 
+- 🎓 Licence Professionnelle en **Informatique et Mathématiques Appliquées** — Université Chouaib Doukkali
+- 📱 Passionné par le développement **Flutter/Dart**, les applications mobiles et le **Web full-stack**
+- 🤖 Intéressé par le **Machine Learning**, l'IA appliquée et l'analyse de données
+- 💼 Expérience en entreprise : Support IT, Développement Flutter, Intégration Web (Odoo)
+- 🔭 Tous mes projets sont disponibles sur [GitHub](https://github.com/omarelhassani12?tab=repositories)
 
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=dart,python,js,php,java,cpp,sql&theme=dark)](https://skillicons.dev)
+
+### Mobile & Web Frameworks
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,nodejs,laravel,bootstrap,express&theme=dark)](https://skillicons.dev)
+
+### Databases & Cloud
+[![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,postgresql,mysql&theme=dark)](https://skillicons.dev)
+
+### Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,linux,androidstudio,postman&theme=dark)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=omarelhassani12&theme=transparent&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&custom_title=Statistiques" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarelhassani12&layout=compact&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=omarelhassani12&theme=transparent&column=6&margin-w=10&no-frame=true" />
+
+</div>
+
+---
+
+<div align="center">
 
 <picture>
-
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</div>
